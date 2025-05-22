@@ -1,8 +1,10 @@
 # 🔍 Glassdoor Data Science Jobs – 2024 Analysis
 
-**Course**: DBAS3018 | Nova Scotia Community College (NSCC)  
-**Author**: Elaine Candido da Silva  
-**Date**: November 2024
+**Course**: DBAS3018 – Data Movement and Integration  
+**Instructor**: Cheolsoon Im  
+**Institution**: Nova Scotia Community College (NSCC)  
+**Program**: IT – Data Analytics  
+**Term**: Fall 2024
 
 ## 📌 Overview
 
@@ -15,5 +17,5 @@ The analysis was part of an academic assignment to demonstrate proficiency in:
 - Visualizations (word cloud, heatmap)
 - Statistical summaries and correlations
 
-The project also includes an **ERD**, a **data dictionary**, and multiple grouped analyses to highlight the most in-demand professions, locations, and company characteristics in the field of data science.
+The project also includes an **ERD**, a **Data Dictionary**, and multiple grouped analyses to highlight the most in-demand professions, locations, and company characteristics in the field of data science.
 
