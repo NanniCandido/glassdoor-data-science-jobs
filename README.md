@@ -1,10 +1,12 @@
 # 🔍 Glassdoor Data Science Jobs – 2024 Analysis
 
-**Course**: DBAS3018 – Data Movement and Integration  
-**Instructor**: Cheolsoon Im  
 **Institution**: Nova Scotia Community College (NSCC)  
 **Program**: IT – Data Analytics  
+**Course**: DBAS3018 – Data Movement and Integration  
+**Instructor**: Cheolsoon Im  
 **Term**: Fall 2024
+
+---
 
 ## 📌 Overview
 
